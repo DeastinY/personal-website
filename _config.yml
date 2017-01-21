@@ -2,8 +2,8 @@
 title: Richard Polzin
 description: Richard Polzin's Personal Website
 favicon: /assets/img/avatar.JPG
-baseurl: https://iaidoaachen.de/personal-website
-url: https://iaidoaachen.de/personal-website
+baseurl: http://iaidoaachen.de/personal-website
+url: http://iaidoaachen.de/personal-website
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
