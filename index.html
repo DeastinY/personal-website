@@ -235,6 +235,24 @@ layout: default
                     </ul>
                 </div>
                 {% endif %}
+                {% if site.author.publications %}
+                <div class="grid-block">
+                    <ul class="list-unstyled list-skills">
+                        {% for publication in site.author.publications %}
+                            <li>
+                                {% if publication.name %}
+                                    <span class="caption-skill">{{ publication.name }}</span>
+                                {% endif %}
+                                {% if programmingSkill.link %}
+                                    <div class="link">
+                                        <p>{{ programmingSkill.link }} </p>
+                                    </div>
+                                {% endif %}
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                {% endif %}
             {% endif %}
             {% if site.author.languages %}
                 <div class="deviter"></div>
