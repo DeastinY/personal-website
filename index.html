@@ -262,17 +262,10 @@ layout: default
                 <div class="deviter"></div>
                 <h3 class="title with-icon"><span class="fa fa-paperclip cat-title"></span> Publications</h3>
                 <div class="grid-block">
-                    <ul class="list-unstyled list-skills">
+                    <ul class="list-unstyled list-publications">
                         {% for publication in site.author.publications %}
                             <li>
-                                {% if publication.name %}
-                                    <span class="caption-skill">{{ publication.name }}</span>
-                                {% endif %}
-                                {% if programmingSkill.link %}
-                                    <div class="link">
-                                        <p>{{ programmingSkill.link }} </p>
-                                    </div>
-                                {% endif %}
+                                <a href={{publication.link}}>{{publication.name}}</a>
                             </li>
                         {% endfor %}
                     </ul>
