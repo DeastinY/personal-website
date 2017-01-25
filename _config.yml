@@ -78,7 +78,6 @@ author:
   publications:
     - publication1:
       name: Localization for Robot Soccer
+      author: A. Diener, F. Fuss, R. Polzin
       link: www.google.de
-      year: 2017
-      month: January
-
+      date: 2017-01-25

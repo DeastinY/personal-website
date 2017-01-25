@@ -265,7 +265,7 @@ layout: default
                     <ul class="list-publications">
                         {% for publication in site.author.publications %}
                             <li>
-                                <emph>{{publication.year}}-{{publication.month}}</emph> <a href={{publication.link}}>{{publication.name}}</a>
+                                 <a href={{publication.link}}>{{publication.name}}</a>. {{publication.author}}. {{publication.date}}
                             </li>
                         {% endfor %}
                     </ul>
