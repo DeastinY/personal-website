@@ -79,5 +79,6 @@ author:
     - publication1:
       name: Localization for Robot Soccer
       link: www.google.de
-      date: January 2017
+      year: 2017
+      month: January
 
