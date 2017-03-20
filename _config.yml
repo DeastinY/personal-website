@@ -2,8 +2,8 @@
 title: Richard Polzin
 description: Richard Polzin's Personal Website
 favicon: /assets/img/avatar.JPG
-baseurl: http://iaidoaachen.de/personal-website
-url: http://iaidoaachen.de/personal-website
+baseurl: http://richardpolzin.com
+url: http://richardpolzin.com
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -19,10 +19,8 @@ author:
   address: Aachen, Germany
   email: polzin.richard@gmail.com
   link: http://richardpolzin.com
-  weibo:
   github: DeastinY
   linkedin: richard-polzin
-  twitter:
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
@@ -75,9 +73,3 @@ author:
     - skill3:
       name: Java
       percentage: 70%
-  publications:
-    - publication1:
-      name: Localization for Robot Soccer
-      author: A. Diener, F. Fuss, R. Polzin
-      link: http://richardpolzin.com/publications/NAO_Localization.pdf
-      date: 2017-01-25
