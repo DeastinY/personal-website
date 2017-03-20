@@ -33,14 +33,14 @@ author:
       title: Master Student
       started: 2016
       duration: (2016 - Present)
-      description: I am currently expanding my knowledge in the fields of machine learning, game theory and robotics. The concepts of artificial intelligence are fascinating and their application is something that has attracted me for quite some time during the Bachelor.
+      description: 
     - work2:
       company: Fachhochschule Aachen / ModuleWorks GmbH
       location: Aachen, Germany
       title: Bachelor Student / Trainee
       started: 2013
       duration: (2013 - 2016)
-      description: During the three years of apprenticeship and studies I learned a lot about the working life and got in contact with many great people.
+      description: 
   educationHistory:
     - education1:
       organization: Fachhochschule Aachen
@@ -57,7 +57,7 @@ author:
       major:
       started: 20010
       duration: (2010 - 2013)
-      description: As soon as I knew that I wanted to pursue an IT career I changed to a school that offered more specialized IT courses. This allowed to have several specialized IT courses already during high school. During this time I was able to learn about topics like programming, databases, networking or game development very early from great teachers.
+      description: 
   languages:
     - language1:
       name: German
